@@ -1,17 +1,23 @@
 # 🏦 Bank Analytics
 
-A comprehensive data analytics project designed to identify key trends and insights from 15,000+ banking transactions and 2,000+ loan records.
+A comprehensive data analytics project designed to identify key trends and insights from **15,000+ banking transactions** and **2,000+ loan records** using **Excel, SQL, Power BI, and Tableau**.
+
+---
 
 ## 📊 Tools & Technologies
-- Excel
-- SQL
-- Power BI
-- Tableau
+- **Excel** – Data cleaning, aggregation, and trend analysis  
+- **SQL** – Data extraction, transformation, and pipeline automation  
+- **Power BI** – Interactive dashboards for KPI tracking  
+- **Tableau** – Visual storytelling and customer segmentation insights  
+
+---
 
 ## 🚀 Key Highlights
-- Improved reporting efficiency by **20%** using automated dashboards and SQL-based pipelines.
-- Enhanced decision-making accuracy by **25%** through KPI visualization and customer segmentation.
-- Built interactive dashboards for trend analysis and business reporting.
+- Analyzed **15,000+ transactions** and **2,000+ loan records** to identify key business trends.  
+- Improved reporting efficiency by **20%** using automated dashboards and SQL-based data pipelines.  
+- Enhanced decision-making accuracy by **25%** through KPI visualization and customer segmentation.  
+
+---
 
 ## 📁 Repository Structure
 - `data/` → Contains sample data files.
@@ -20,8 +26,18 @@ A comprehensive data analytics project designed to identify key trends and insig
 - `reports/` → Analytical summary and project findings.
 
 ## 🧠 Insights
-This project demonstrates how data-driven banking decisions can improve business growth, loan approval rates, and customer engagement.
+This project demonstrates how effective data analytics can optimize **banking operations**, enhance **customer segmentation**, and improve **loan performance analysis** through clear, data-driven insights.
 
 ---
 
-📌 **Created by:** [Shaik Mohammed Sameer](https://github.com/smdsameer1)
+## 📸 Dashboard Preview
+*(Add images later if available)*  
+`dashboards/PowerBI_Bank_Analytics.pbix` → Loan & Transaction Summary Dashboard  
+`dashboards/Tableau_Bank_Insights.twbx` → Customer & KPI Visualization  
+
+---
+
+## 🔗 Connect with Me
+**👨‍💻 Created by:** [Shaik Mohammed Sameer](https://github.com/smdsameer1)  
+📧 **Email:** shaikhmohammedsameer13@gmail.com  
+💼 **LinkedIn:** [shaik-mohammed-sameer](https://www.linkedin.com/in/shaik-mohammed-sameer-5b5919257/)  
