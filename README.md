@@ -31,7 +31,6 @@ This project demonstrates how effective data analytics can optimize **banking op
 ---
 
 ## 📸 Dashboard Preview
-*(Add images later if available)*  
 `dashboards/PowerBI_Bank_Analytics.pbix` → Loan & Transaction Summary Dashboard  
 `dashboards/Tableau_Bank_Insights.twbx` → Customer & KPI Visualization  
 
